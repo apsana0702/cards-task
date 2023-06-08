@@ -1,0 +1,78 @@
+0 th level
+Html
+Css
+JS
+UI/UX figma
+github
+
+level 1(imp)
+fullstack dynamic pages
+front end=CRud(Backend)
+MEAN-
+
+level-2(dont be much worried)
+mobile application=most useful in prsebt technology
+REACT native for both android and iOS design     not much efficient 
+android android studio kotlin/java
+iOS application -XCODE - using SWIFT language
+
+
+
+level-3(Imp)
+
+python
+dataanalytics using python
+excel-pivot tbles,lookup functions
+tableau/Power BI-data visualization,dashboard creation,data stories
+
+
+product deployment
+
+who doesnt require coding
+
+
+required
+
+
+front end(REact)
+back end(MERN,php,java)
+database(sql,mysql,mongo)
+dataanalytic(data munging,modelling cleaning)
+cloud(AWS/Azure)
+
+
+
+elements in Html
+1.Container elements
+    close and open tags
+2.Empty elements
+     only open tage with no close tag
+
+
+HTML tags
+
+1. Top Level tags
+Html
+body 
+head 
+doctype 
+title 
+meta 
+header
+
+2. Text Formatting Tags
+bold
+strong
+italic
+emphasis
+small -reduced size
+mark -highlights the text
+del -stikes the word 
+ins -underlines
+sub 
+sup
+
+
+
+
+
